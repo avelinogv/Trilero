@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trilero.Plugins", "trilero.Plugins.csproj", "{58DA3103-2FB1-F273-A74F-F805702F6B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trilero", "trilero.csproj", "{8B670E77-957D-05D3-F68E-C44FD5F1DFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trilero.Editor.Plugins", "trilero.Editor.Plugins.csproj", "{1CD5A599-9BEE-55F0-4E0C-4DF38DD25641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58DA3103-2FB1-F273-A74F-F805702F6B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DA3103-2FB1-F273-A74F-F805702F6B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DA3103-2FB1-F273-A74F-F805702F6B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DA3103-2FB1-F273-A74F-F805702F6B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B670E77-957D-05D3-F68E-C44FD5F1DFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B670E77-957D-05D3-F68E-C44FD5F1DFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B670E77-957D-05D3-F68E-C44FD5F1DFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B670E77-957D-05D3-F68E-C44FD5F1DFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD5A599-9BEE-55F0-4E0C-4DF38DD25641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD5A599-9BEE-55F0-4E0C-4DF38DD25641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD5A599-9BEE-55F0-4E0C-4DF38DD25641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD5A599-9BEE-55F0-4E0C-4DF38DD25641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
